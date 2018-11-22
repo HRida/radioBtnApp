@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">radioBtnApp</string>
+
+    <string name="Paris">Paris - France</string>
+    <string name="Beirut">Beirut - Lebanon</string>
+    <string name="London">London - United Kingdom</string>
+    <string name="Rome">Rome - Italy</string>
+    <string name="Berlin">Berlin - Deutschland</string>
+</resources>
